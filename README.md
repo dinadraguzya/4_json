@@ -1,18 +1,19 @@
 # Prettify JSON
 
-[TODO. There will be project description]
+The script prints out the data from a file in a human readable JSON format
 
 # Quickstart
-
-[TODO]
 
 Example of script launch on Linux, Python 3.5:
 
 ```bash
 
 $ python pprint_json.py <path to file>
-# TODO add output example
-
+# An output example
+{
+    "foo": 3,
+    "bar": 4
+}
 ```
 
 # Project Goals
